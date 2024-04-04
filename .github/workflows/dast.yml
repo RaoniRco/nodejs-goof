@@ -1,7 +1,0 @@
-name: Dastardly Scan
-
-on: workflow_dispatch
-
-jobs:
-  dast: 
-    runs-on: ubuntu-lates
